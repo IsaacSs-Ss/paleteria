@@ -1,0 +1,23 @@
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+nbproject/private/
+
+# Java / Build
+target/
+build/
+*.log
+*.iml
+
+# Node
+frontend/node_modules/
+dist/
+
+# Docker / datos locales
+_data/
+
+# Entornos
+.env
+.env.*
